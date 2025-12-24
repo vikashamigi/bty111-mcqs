@@ -1,0 +1,8 @@
+body{font-family:Arial;background:#eef2f5}
+.quiz-container{width:80%;margin:auto;background:#fff;padding:20px;border-radius:10px}
+h1{text-align:center}
+.timer{text-align:center;color:red;font-size:18px}
+.question{font-weight:bold;margin-top:10px}
+.options{margin-left:20px}
+button{margin:30px auto;display:block;padding:10px 30px;font-size:16px}
+#result{text-align:center;font-size:22px;font-weight:bold}
